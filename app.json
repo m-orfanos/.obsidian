@@ -1,0 +1,26 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "500 Inbox",
+  "attachmentFolderPath": "000 Attachments",
+  "showInlineTitle": false,
+  "spellcheckLanguages": null,
+  "tabSize": 4,
+  "useTab": false,
+  "showUnsupportedFiles": true,
+  "trashOption": "system",
+  "spellcheck": true,
+  "userIgnoreFilters": [
+    "000 Attachments/",
+    "100 Templates/",
+    "200 Scripts/"
+  ],
+  "propertiesInDocument": "source",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

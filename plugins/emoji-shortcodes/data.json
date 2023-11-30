@@ -1,0 +1,23 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":sunglasses:",
+    ":calendar:",
+    ":100:",
+    ":clock11:",
+    ":u5408:",
+    ":gift:",
+    ":repeat:",
+    ":confused:",
+    ":face_with_spiral_eyes:",
+    ":clock4:",
+    ":upside_down_face:",
+    ":smile:",
+    ":frowning_face:",
+    ":clock930:",
+    ":facepalm:"
+  ]
+}

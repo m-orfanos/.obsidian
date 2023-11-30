@@ -1,0 +1,35 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "",
+    "template": "100 Templates/daily-notes-template.md",
+    "folder": "600 Journal",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "GGGG-[W]ww",
+    "template": "100 Templates/weeky-notes-template.md",
+    "folder": "600 Journal",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "100 Templates/monthly-notes-template.md",
+    "folder": "600 Journal",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "",
+    "template": "100 Templates/quarterly-notes-template.md",
+    "folder": "600 Journal",
+    "enabled": true
+  },
+  "yearly": {
+    "format": "",
+    "template": "100 Templates/yearly-notes-template.md",
+    "folder": "600 Journal",
+    "enabled": true
+  }
+}
